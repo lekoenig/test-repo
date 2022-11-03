@@ -5,6 +5,6 @@ important_dataset <- data.frame(site_id = c("a","b","c"),
 
 important_dataset$log_temp <- log(important_dataset$temp)
 
-hist(important_dataset$log_temp, main = "histogram")
+hist(important_dataset$log_temp, main = "awesome histogram")
 
 # pretend we fix a bug now
