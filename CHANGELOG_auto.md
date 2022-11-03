@@ -1,6 +1,7 @@
 ## CHANGELOG
 
-2022-11-03
+<b>.2022-11-03.</b>
+ * format auto changelog
  * add auto generated changelog
  * add manually-generated changelog file
  * add visualization step
