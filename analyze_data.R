@@ -7,3 +7,4 @@ important_dataset$log_temp <- log(important_dataset$temp)
 
 hist(important_dataset$log_temp, main = "histogram")
 
+# pretend we fix a bug now
