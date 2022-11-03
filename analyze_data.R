@@ -5,4 +5,5 @@ important_dataset <- data.frame(site_id = c("a","b","c"),
 
 important_dataset$log_temp <- log(important_dataset$temp)
 
-hist(important_dataset$log_temp)
+hist(important_dataset$log_temp, main = "histogram")
+
